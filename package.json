@@ -25,6 +25,8 @@
   "homepage": "https://github.com/comp426-2022-fall/a02-teresa7218#readme",
   "dependencies": {
     "edit-package-json": "^0.7.2",
-    "minimist": "^1.2.6"
+    "minimist": "^1.2.7",
+    "moment-timezone": "^0.5.38",
+    "node-fetch": "^3.2.10"
   }
 }
